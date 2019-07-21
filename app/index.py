@@ -6,7 +6,7 @@ from lib.db import db
 
 
 from .exceptions import ExceptionHandler
-from . import blueprint
+from app.errors import blueprint
 from lib import cache
 
 
