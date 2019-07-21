@@ -19,7 +19,6 @@ MarkupSafe==1.1.1
 MongoAlchemy==0.19
 mongoengine==0.18.2
 numpy==1.16.4
-pkg-resources==0.0.0
 protobuf==3.9.0
 pymongo==3.8.0
 python-dotenv==0.10.3
