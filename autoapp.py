@@ -1,7 +1,3 @@
-""" Create application instance """
-
-
-
 from app import app
 
 
